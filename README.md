@@ -1,14 +1,12 @@
-# A Blank PhoneGap App
+# Beef-Burger-Bun-Run
 
-## Usage
 
-### PhoneGap CLI
+## Clone or download the source for BBBR if you want it. Links to resources that I used are below!
 
-    $ phonegap create my-app --template blank
+[PhoneGap Desktop Version](https://phonegap.com/)
 
-### Desktop
+[p5js](https://p5js.org/)
 
-In your browser, open the file:
+[p5 Play](http://p5play.molleindustria.org/)
 
-    /www/index.html
 

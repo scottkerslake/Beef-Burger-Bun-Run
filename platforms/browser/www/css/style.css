@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    
+}
+
+
+.buttonDiv{
+	position: fixed;
+	height: 30px;
+	width: 100%;
+	background-color: aquamarine;
+	z-index: 30;
+
+
+
+}
+.inline{
+	display: inline-block;
+	margin: 0;
+	width: 100%;
+
+
+}
+.endgame{
+	/*background-color: green;*/
+	width:  100%;
+	text-align:  center;
+
+
+
+}
